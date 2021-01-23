@@ -1,0 +1,71 @@
+{
+  "main": {
+    "name":"Andrea Boyd",
+    "description":"I am a (novice) web developer",
+    "image":"profilePic.jpg",
+    "bio":"I am a life-long resident of the Nashville area. The bulk of my adult employment has been focused in accounting and bookkeeping. While pursuing a bachelors degree in accounting, I also perused my way through some actuarial science course, which ultimately led to me taking my first computer science course. I enjoyed the exposure to Python and computer science in that class far more than I ever expected to, and while I did not finish the pursuit of a degree, I had always wanted to return to coding when life afforded me the opportunity to do so. I completed a certificate program in full-stack web development through Vanderbilt University in January 2021, and I am eager to continue my learning of the field. I hope to be employed in some capoacity in the world of web development in the future.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "boydandrea100@gmail.com",
+    "phone": "615-299-7746",
+    "github":"https://github.com/Andrea-Boyd",    
+    "address":{
+      "street":"4562 S Trace Blvd",
+      "city":"Old Hickory",
+      "state":"TN",
+      "zip": "37138"
+    },    
+    "social":
+      [{
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrea-boyd/",
+        "className":"fa fa-linkedin"
+      }]
+     
+  },
+  "resume":{
+    "skillmessage":"If I have learned one thing about myself as an adult, it is that I am resourceful. I will try all avenues to clear the hurdles my work and personal lives has to offer, but I also know when to ask for help if all my personal resources have been fruitless in overcoming the challenges.",
+    "education":[
+      {
+        "school":"Vanderbilt University",
+        "degree":"Certificate in Full-Stack Web Development",
+        "graduated":"January 2021",
+        "description":"Javascript,Node,React, MERN"
+      },
+      {
+        "school":"Volunteer State Community College",
+        "degree":"Associates of Science- Accounting Concentration",
+        "graduated":"May 2014",
+        "description":"Completed general education courses as well as base accounting classes"
+      }
+    ],
+    "work":[
+      
+    ],
+    "skills":[     
+      {
+        "name":"ReactJs",
+        "level":"20%"
+      },
+      {
+        "name":"CSS",
+        "level":"40%"
+      }     
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Song Scout",
+        "category":"An application to search music by artist or song title",
+        "image":"songScout.png",
+        "url":"https://andrea-boyd.github.io/Song-Scout/"
+      },
+      {
+        "title":"KIT: Keep in Touch",
+        "category":"a messaging application created as a group project during coding bootcamp",
+        "image":"login_page.PNG",
+        "url":"https://sheltered-plains-45359.herokuapp.com/"
+      }      
+    ]
+  }
+}
